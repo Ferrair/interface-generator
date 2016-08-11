@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="interface-generator">
+    <output-path>$PROJECT_DIR$/out/artifacts/interface_generator</output-path>
+    <root id="archive" name="interface-generator.jar">
+      <element id="module-output" name="APT" />
+      <element id="library" level="project" name="javapoet-1.1.0" />
+    </root>
+  </artifact>
+</component>
